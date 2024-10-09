@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Cast</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min temp</string>
+    <string name="cloud">Clear Sky</string>
+    <string name="updated_at">Updated At</string>
+    <string name="location">Location</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="information">Tripathi</string>
+    <string name="app">Vivek</string>
+    <string name="error">Something went wrong</string>
+</resources>
