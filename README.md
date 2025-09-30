@@ -31,7 +31,7 @@ It fetches real-time weather data such as temperature, humidity, and conditions 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/weather-app-kotlin.git
+   git clone https://github.com/tripathivivek98/weathercast.git
 2. Open project in Android Studio.
 
 3. Add your API key in WeatherViewModel.kt:
