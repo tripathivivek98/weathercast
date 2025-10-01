@@ -43,14 +43,19 @@ It fetches real-time weather data such as temperature, humidity, and conditions 
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="home.png" alt="Home" width="720"/>
-  <img src="city.png" alt="Add City" width="720"/>
+  <img src="home.png" alt="Home" width="192"/>
+  <img src="city.png" alt="Add City" width="192"/>
 </p>
 
 
 ## 🤝 Contributing
 Contributions are welcome!<br>
 Feel free to fork this repo, raise issues, and submit PRs.
+
+
+## 📜 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 
 👤 Author : Vivek Tripathi
